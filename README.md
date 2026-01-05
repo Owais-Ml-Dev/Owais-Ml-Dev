@@ -69,8 +69,3 @@ My engineering philosophy revolves around understanding the "why" and "how" of i
 * **Smart India Hackathon 2023:** Led a team of 6 (selected from 44,000+ teams) to build an AI-powered sign language-to-speech system using ESP32 sensor fusion.
 * **Creative Ideas & Innovations in Action:** **2nd Runner-Up** (National Level) for designing a legal document automation platform.
 * **Project Deep Blue:** Developed an end-to-end meeting transcription and summarization system.
-
----
-<p align="center">
-  <i>Open to internships and full-time roles in AI & Machine Learning.</i>
-</p>
