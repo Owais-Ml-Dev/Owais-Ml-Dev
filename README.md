@@ -1,22 +1,76 @@
-# Hi 👋! My name is Owais Shaikh and I'm an AI/ML Engineer
+<div align="center">
+  <h1>Hi there, I'm Owais Shaikh! 👋</h1>
+  <h3>AI & Machine Learning Engineer</h3>
+  <p>
+    <b>Specializing in Deep Learning, NLP, and Computer Vision</b><br>
+    <i>"Building AI systems from first principles — prioritizing understanding over black-box usage."</i>
+  </p>
 
-Hi! I’m Owais Shaikh, a Computer Science Engineering graduate with a specialization in Artificial Intelligence and Machine Learning.<br><br>I'm passionate about building intelligent systems that solve real-world problems. Skilled in Python and experienced in NLP, computer vision, and deep learning, I enjoy turning ideas into smart, scalable solutions.<br><br>I’ve led and collaborated with teams in national-level competitions, gaining hands-on experience in innovation, teamwork, and leadership under pressure.<br><br>I'm currently looking to collaborate on AI/ML projects and connect with developers and researchers in the field.<br><br>📫 Reach me at:<br>📧 Email: owais.shaikh.ml.engineer@gmail.com<br>🔗 LinkedIn: linkedin.com/in/owais-shk<br><br>
+  <a href="mailto:owais.shaikh.ml.engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/owais-shk/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owais.shaikh.ml.engineer@gmail.com) 
-##
+### 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I am a Computer Science Engineer (**B.E. CSE with AI/ML Specialization**) with a strong academic track record (**CGPA 8.44**). 
 
+My engineering philosophy revolves around understanding the "why" and "how" of intelligent systems. I don't just use APIs; I build architectures (like GPT-style Transformers) from scratch to understand their mathematical underpinnings and failure modes.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Owais-Ml-Dev/Owais-Ml-Dev/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Owais-Ml-Dev/Owais-Ml-Dev/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+* 🔭 **I’m currently working on:** Deepening my understanding of Large Language Model (LLM) internals and robust production pipelines.
+* 🏆 **Leadership:** Team Lead for **Smart India Hackathon 2023** (Top 6 team among 44,000+).
+* 💼 **Experience:** Former Data Science Intern at **Oasis Infobyte**.
 
-<p align="left"></p>
+---
 
-###
+### 🛠️ Technical Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Vision & Audio** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Librosa](https://img.shields.io/badge/Librosa-Audio-lightgrey?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 [GPT-Style Language Model from Scratch](#)
+*Implemented a decoder-only transformer to understand LLM internals.*
+* **The "Hard" Way:** Built tokenization, positional encoding, and multi-head self-attention manually without using pre-built transformer libraries.
+* **Focus:** Training stability, optimization behavior, and next-token prediction.
+
+#### 🗣️ [Speech Emotion Recognition](#)
+*Audio classification system using Deep Learning.*
+* **Tech:** LSTM architectures & Librosa.
+* **Details:** Handled time-series preprocessing and normalization to classify human emotions from raw audio signals with high accuracy.
+
+#### 👁️ [Drowsiness Detection System](#)
+*Real-time driver safety monitoring.*
+* **Tech:** OpenCV, Haar Cascades.
+* **Details:** Detects prolonged eye closure under varying lighting conditions to trigger safety alerts.
+
+#### 📅 [Automated Attendance System](#)
+*Face-recognition based logging.*
+* **Tech:** OpenCV, Firebase.
+* **Details:** Automates entry/exit logging to eliminate manual errors and reduce administrative overhead.
+
+---
+
+### 🏆 Achievements & Hackathons
+
+* **Smart India Hackathon 2023:** Led a team of 6 (selected from 44,000+ teams) to build an AI-powered sign language-to-speech system using ESP32 sensor fusion.
+* **Creative Ideas & Innovations in Action:** **2nd Runner-Up** (National Level) for designing a legal document automation platform.
+* **Project Deep Blue:** Developed an end-to-end meeting transcription and summarization system.
+
+---
+<p align="center">
+  <i>Open to internships and full-time roles in AI & Machine Learning.</i>
+</p>
